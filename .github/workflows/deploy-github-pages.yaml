@@ -11,6 +11,10 @@ permissions:
   pages: write
   id-token: write
 
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -32,28 +36,24 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-node-
 
-      - name: Cache Quartz plugins
-        uses: actions/cache@v4
-        with:
-          path: .quartz/plugins
-          key: ${{ runner.os }}-plugins-${{ hashFiles('quartz.lock.json') }}
-          restore-keys: |
-            ${{ runner.os }}-plugins-
-
       - name: Install dependencies
         run: npm ci
 
-      - name: Build og-image plugin
+      - name: Install and Rebuild Quartz Plugins
         run: |
+          npx quartz plugin install --clean
+          
+          # Настраиваем og-image
           cd .quartz/plugins/og-image
           npm install
-
-      - name: Fetch and Build quartz-themes plugin
-        run: |
+          cd ../../..
+          
+          # Скачиваем тему gruvbox и пересобираем плагин тем
           curl -s -S https://githubusercontent.com | bash -s -- obsidian-gruvbox
           cd .quartz/plugins/quartz-themes
           npm install
           npm run build
+          cd ../../..
 
       - name: Build Quartz
         run: npx quartz build -d public
@@ -64,11 +64,11 @@ jobs:
           path: public
 
   deploy:
+    needs: build
+    runs-on: ubuntu-latest
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
-    needs: build
+      url: ${{ steps.deployment.outputs.page_url }}    
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
