@@ -49,6 +49,9 @@ jobs:
       - name: Build og-image plugin
         run: cd .quartz/plugins/og-image && npm install && npm run build
 
+      - name: Build quartz-themes plugin
+        run: cd .quartz/plugins/quartz-themes && npm install && npm run build
+
       - name: Build Quartz
         run: npx quartz build -d public
 
