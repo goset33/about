@@ -44,10 +44,16 @@ jobs:
         run: npm ci
 
       - name: Build og-image plugin
-        run: cd .quartz/plugins/og-image && npm install && npm run build
+        run: |
+          cd .quartz/plugins/og-image
+          npm install
 
       - name: Fetch and Build quartz-themes plugin
-        run: curl -s -S https://githubusercontent.com | bash -s -- obsidian-gruvbox && cd .quartz/plugins/quartz-themes && npm install && npm run build
+        run: |
+          curl -s -S https://githubusercontent.com | bash -s -- obsidian-gruvbox
+          cd .quartz/plugins/quartz-themes
+          npm install
+          npm run build
 
       - name: Build Quartz
         run: npx quartz build -d public
