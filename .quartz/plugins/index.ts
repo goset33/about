@@ -32,7 +32,7 @@ export { EncryptedPage, EncryptedPageComponentOptions, EncryptedContentIndexOpti
 export { FolderPage, FolderPageOptions, FolderContent } from "./folder-page"
 export { NotePropertiesComponent, NotePropertiesComponentOptions, NotePropertiesOptions } from "./note-properties"
 export { ExcalidrawData, ExcalidrawElement, ExcalidrawBody, ExcalidrawFrame, ExcalidrawPageOptions } from "./obsidian-plugin-excalidraw"
-export { CustomOgImagesEmitterName } from "./og-image/dist"
+export { CustomOgImagesEmitterName } from "./og-image"
 export { filterListedPages, isFolderPageSlug, isTagPageSlug, resolveDefaultDateType, withResolvedDateType } from "./recent-notes"
 export { StackedPagesOptions, ExampleComponent, ExampleComponentOptions, StackedPages, StackedPagesComponentOptions, ExampleEmitterOptions, ExampleFilterOptions, ExampleTransformerOptions } from "./stacked-pages"
 export { tokenClassifierTransformer } from "./syntax-highlighting"
