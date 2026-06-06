@@ -11,4 +11,5 @@ private/
 replit.nix
 .quartz/*
 !.quartz/plugins/
+!.quartz/plugins/index.ts
 quartz/cli/tui/dist/
