@@ -39,22 +39,13 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Install and Rebuild Quartz Plugins
+      - name: Fetch Gruvbox Theme Styles
         run: |
-          npx quartz plugin install --clean
-          
-          # Настраиваем og-image
-          cd .quartz/plugins/og-image
-          npm install
-          cd ../../..
-          
-          # Скачиваем тему gruvbox и пересобираем плагин тем
-          curl -s -S https://githubusercontent.com | bash -s -- obsidian-gruvbox
-          cd .quartz/plugins/quartz-themes
-          npm install
-          npm run build
-          cd ../../..
+          curl -s -S https://raw.githubusercontent.com/saberzero1/quartz-themes/master/action.sh | bash -s -- obsidian-gruvbox
 
+      - name: Refresh and Install Plugins Index
+        run: npx quartz plugin install --latest
+        
       - name: Build Quartz
         run: npx quartz build -d public
 
