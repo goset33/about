@@ -36,7 +36,7 @@ title: Портфолио
 ![[TD100 8.jpg]]
 ![[TD100 9.png]]
 
-<img src="x" onerror="if(!window.scInit){ window.scInit=true; const script = document.querySelector('script[src*=prescript]'); const basePath = script ? script.getAttribute('src').replace('/prescript.js', '') : ''; const s=document.createElement('script'); s.src=basePath + '/static/showcase.js'; document.head.appendChild(s); } this.remove();" style="display:none;">
+<img src="x" onerror="if(!window.scInit){ window.scInit=true; const script = document.querySelector('script[src*=prescript]'); const src = script ? script.getAttribute('src') : ''; const basePath = src.substring(0, src.lastIndexOf('/')); const s=document.createElement('script'); s.src=basePath + '/static/showcase.js'; document.head.appendChild(s); } this.remove();" style="display:none;">
 </div>
 <span class="caption">Скриншоты TD100</span>
 
@@ -96,7 +96,7 @@ title: Портфолио
 ![[MQG 6.png]]
 ![[MQG 7.png]]
 
-<img src="x" onerror="if(!window.scInit){ window.scInit=true; const script = document.querySelector('script[src*=prescript]'); const basePath = script ? script.getAttribute('src').replace('/prescript.js', '') : ''; const s=document.createElement('script'); s.src=basePath + '/static/showcase.js'; document.head.appendChild(s); } this.remove();" style="display:none;">
+<img src="x" onerror="if(!window.scInit){ window.scInit=true; const script = document.querySelector('script[src*=prescript]'); const src = script ? script.getAttribute('src') : ''; const basePath = src.substring(0, src.lastIndexOf('/')); const s=document.createElement('script'); s.src=basePath + '/static/showcase.js'; document.head.appendChild(s); } this.remove();" style="display:none;">
 </div>
 <span class="caption">Скриншоты Mega Quiz: Games</span>
 
@@ -148,7 +148,7 @@ Mega Quiz: Games представляет собой интерактивную 
 ![[CA 8.png]]
 ![[CA 9.png]]
 
-<img src="x" onerror="if(!window.scInit){ window.scInit=true; const script = document.querySelector('script[src*=prescript]'); const basePath = script ? script.getAttribute('src').replace('/prescript.js', '') : ''; const s=document.createElement('script'); s.src=basePath + '/static/showcase.js'; document.head.appendChild(s); } this.remove();" style="display:none;">
+<img src="x" onerror="if(!window.scInit){ window.scInit=true; const script = document.querySelector('script[src*=prescript]'); const src = script ? script.getAttribute('src') : ''; const basePath = src.substring(0, src.lastIndexOf('/')); const s=document.createElement('script'); s.src=basePath + '/static/showcase.js'; document.head.appendChild(s); } this.remove();" style="display:none;">
 </div>
 <span class="caption">Скриншоты Castle Adventure</span>
 
