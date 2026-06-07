@@ -75,7 +75,7 @@ title: Портфолио
 **Стек:** Unity, C#, Git, Unity Localization, UI Toolkit, PluginYG 2.0, R3, NPOI
 **Платформа:** WebGL
 **Контент:** 4 квиза / 400+ вопросов / локализация RU-EN
-**Билд:** [yandex.com](https://yandex.com/games/app/368479?draft=true)
+**Билд:** [yandex.ru](https://yandex.ru/games/app/368479?draft=true)
 **GitHub:** [github.com](https://github.com/goset33/Quiz-Template)
 <br>
 <div class="video-box">

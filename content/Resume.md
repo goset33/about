@@ -76,7 +76,7 @@ Unity Developer | 01.2026 — 04.2026
   → Удобное хранение и изменение вопросов игры
 • Локализация через Unity Localization
   → RU / EN
-🔗 **Билд:** [yandex.com](https://yandex.com/games/app/368479?draft=true)
+🔗 **Билд:** [yandex.ru](https://yandex.ru/games/app/368479?draft=true)
 🔗 **GitHub:** [github.com](https://github.com/goset33/Quiz-Template)
 💼 **Детальное описание:** [[Portfolio#Mega Quiz Games|В портфолио]]
 <br>
