@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: ru-RU
-  baseUrl: goset33.github.io/about
+  baseUrl: "goset33.github.io/about"
   ignorePatterns:
     - private
     - templates
