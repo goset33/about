@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Резюме
+  pageTitle: Resume
   pageTitleSuffix: " | Unity Developer"
   enableSPA: true
   enablePopovers: true
@@ -287,10 +287,7 @@ layout:
         right: []
     content: {}
     folder:
-      exclude:
-        - reader-mode
-      positions:
-        right: []
+      exclude: []
     tag:
       exclude:
         - reader-mode

@@ -7,7 +7,7 @@ title: Portfolio
 **✉️ Mail:** goset33pred@gmail.com
 **💬 Telegram:** [t.me/GosetTM](https://t.me/GosetTM)
 **🐙 GitHub:** [github.com/goset33](https://github.com/goset33)
-**💼 Resume:** [[content/en/Resume|Resume]]
+**💼 Resume:** [[en/Resume|Resume]]
 
 ---
 ## TD100

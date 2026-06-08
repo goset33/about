@@ -1,8 +1,11 @@
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
 .center article {
   zoom: 1.05;
+}
+
+.page-listing {
+  display: none !important;
 }
 
 span.caption {

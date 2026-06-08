@@ -7,7 +7,7 @@ title: Resume
 **✉️ Mail:** goset33pred@gmail.com
 **💬 Telegram:** [t.me/GosetTM](https://t.me/GosetTM)
 **🐙 GitHub:** [github.com/goset33](https://github.com/goset33)
-**🎮 Portfolio:** [[content/en/Portfolio|Portfolio]]
+**🎮 Portfolio:** [[en/Portfolio|Portfolio]]
 
 ---
 ## ABOUT ME

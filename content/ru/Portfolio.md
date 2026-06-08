@@ -7,7 +7,7 @@ title: Портфолио
 **✉️ Mail:** goset33pred@gmail.com
 **💬 Telegram:** [t.me/GosetTM](https://t.me/GosetTM)
 **🐙 GitHub:** [github.com/goset33](https://github.com/goset33)
-**💼 Резюме:** [[content/ru/Resume|Резюме]]
+**💼 Резюме:** [[ru/Resume|Резюме]]
 
 ---
 ## TD100
