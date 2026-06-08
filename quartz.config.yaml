@@ -5,7 +5,8 @@ configuration:
   enableSPA: true
   enablePopovers: true
   analytics:
-    provider: plausible
+    provider: "cloudflare"
+    beacon: "94669763aec64227905c9c0d1ed5227d"
   locale: ru-RU
   baseUrl: "goset33.github.io/about"
   ignorePatterns:
