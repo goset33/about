@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: "cloudflare"
     beacon: "94669763aec64227905c9c0d1ed5227d"
-  locale: ru-RU
+  locale: en-US
   baseUrl: "goset33.github.io/about"
   ignorePatterns:
     - private

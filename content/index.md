@@ -1,7 +1,6 @@
 ---
-title: Добро пожаловать
+title: Welcome to Quartz
 ---
-Выберите интересующий вас раздел:
 
-- 📄 **[[Resume|Резюме]]** — мой опыт работы, обо мне, краткое портфолио.
-- 💼 **[[Portfolio|Портфолио]]** — подробное портфолио по всем проектам, со скриншотами, видео, билдами.
+This is a blank Quartz installation.
+See the [documentation](https://quartz.jzhao.xyz) for how to get started.

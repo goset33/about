@@ -7,7 +7,7 @@ title: Резюме
 **✉️ Mail:** goset33pred@gmail.com
 **💬 Telegram:** [t.me/GosetTM](https://t.me/GosetTM)
 **🐙 GitHub:** [github.com/goset33](https://github.com/goset33)
-**🎮 Portfolio:** [[Portfolio|Портфолио]]
+**🎮 Portfolio:** [[content/ru/Portfolio|Портфолио]]
 
 ---
 ## О СЕБЕ 
@@ -30,8 +30,7 @@ title: Резюме
 
 **DreamShot — TD100 (3D Tower Defense)**
 Unity Developer | 01.2026 — 04.2026
-Полный цикл разработки мобильной игры под заказ — от пустого
-проекта до готового к релизу продукта.
+Полный цикл разработки мобильной игры под заказ — от пустого проекта до готового к релизу продукта.
 
 • Реализовал всю игровую логику: башни, враги, волны, уровни
 • Продумал и сверстал UI игры с помощью **UI Toolkit**
@@ -47,8 +46,7 @@ Unity Developer | 01.2026 — 04.2026
 
 **🎮 TD100  |  3D Tower Defense  |  Android / Windows  |  2026**
 Коммерческий заказной проект, сдан заказчику готовым к релизу.
-15 уровней, 3 типа башен, 6 типов врагов. Разработан соло в команде
-со сторонним моделером.
+15 уровней, 3 типа башен, 6 типов врагов. Разработан соло в команде со сторонним моделером.
 ⚙️ **Features:**
 • Object Pooling для башен, врагов и снарядов
   → устранил фризы при первом спавне — повторные спавны берутся из пула без аллокаций
@@ -62,7 +60,7 @@ Unity Developer | 01.2026 — 04.2026
   → RU / EN
 🔗 **Билд:** [drive.google.com](https://drive.google.com/drive/folders/1dp1mmjuPJf7RtdH54NF7bzIeThUr_yz8?usp=sharing)
 🔗 **Code Examples:** [gist.github.com](https://gist.github.com/goset33/8e83d2b5f2bc19a86a7bcce194ab6761)
-💼 **Детальное описание:** [[Portfolio#TD100|В портфолио]]
+💼 **Детальное описание:** [[content/ru/Portfolio#TD100|В портфолио]]
 <br>
 **🎮 Mega Quiz: Games | Trivia | Yandex Games | 2025**
 Проект для Яндекс Игр -- казуальный квиз по различным играм. Содержит вопросы по 4 играм, суммарно более 400 вопросов. Разработан мной вместе с геймдизайнером. 
@@ -77,7 +75,7 @@ Unity Developer | 01.2026 — 04.2026
   → RU / EN
 🔗 **Билд:** [yandex.ru](https://yandex.ru/games/app/368479?draft=true)
 🔗 **GitHub:** [github.com](https://github.com/goset33/Quiz-Template)
-💼 **Детальное описание:** [[Portfolio#Mega Quiz Games|В портфолио]]
+💼 **Детальное описание:** [[content/ru/Portfolio#Mega Quiz Games|В портфолио]]
 <br>
 **🎮 Castle Adventure | 2D Platformer | Android / Windows | 2023**
 Личный инди-проект, доведен до уровня MVP. 11 уровней, 3 типа врагов, 2 типа атаки, 1 босс с особыми атаками и стадиями. Разработан целиком соло.
@@ -89,7 +87,7 @@ Unity Developer | 01.2026 — 04.2026
 • Локализация через Unity Localization
   → RU / EN
 **🔗 Link:** [gamejolt.com](https://gamejolt.com/games/Castle-Adventure/872206)
-**💼 Детальное описание:** [[Portfolio#Castle Adventure|В портфолио]]
+**💼 Детальное описание:** [[content/ru/Portfolio#Castle Adventure|В портфолио]]
 
 ---
 ## ЯЗЫКИ 
