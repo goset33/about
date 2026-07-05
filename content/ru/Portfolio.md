@@ -3,7 +3,7 @@ title: Портфолио
 ---
 **Георгий | Unity Developer — Core & Gameplay**
 
-**UTC+7 | 📍 Удаленно | Freelance / Project-based**
+**UTC+7 | 📍 Удаленно | Full-time / Part-time / Project-based**
 **✉️ Mail:** goset33pred@gmail.com
 **💬 Telegram:** [t.me/GosetTM](https://t.me/GosetTM)
 **🐙 GitHub:** [github.com/goset33](https://github.com/goset33)

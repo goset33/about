@@ -3,7 +3,7 @@ title: Portfolio
 ---
 **George | Unity Developer — Core & Gameplay**
 
-**UTC+7 | 📍 Remote | Freelance / Project-based**
+**UTC+7 | 📍 Remote | Full-time / Part-time / Project-based**
 **✉️ Mail:** goset33pred@gmail.com
 **💬 Telegram:** [t.me/GosetTM](https://t.me/GosetTM)
 **🐙 GitHub:** [github.com/goset33](https://github.com/goset33)

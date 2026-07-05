@@ -3,7 +3,7 @@ title: Resume
 ---
 **George | Unity Developer — Core & Gameplay**
 
-**UTC+7 | 📍 Remote | Freelance / Project-based**
+**UTC+7 | 📍 Remote | Full-time / Part-time / Project-based**
 **✉️ Mail:** goset33pred@gmail.com
 **💬 Telegram:** [t.me/GosetTM](https://t.me/GosetTM)
 **🐙 GitHub:** [github.com/goset33](https://github.com/goset33)
@@ -12,7 +12,7 @@ title: Resume
 ---
 ## ABOUT ME
 
-Over 5 years of experience developing with Unity, including more than six months of commercial development. I specialize in developing core functionality and gameplay, as well as integrating third-party libraries and APIs. I write well-documented code and have experience both working in a team and independently bringing projects to release. I am looking for freelance projects involving the implementation of game mechanics and core systems—from prototyping to a fully integrated solution based on technical specifications—with no long-term projects.
+Over 5 years of experience developing with Unity, including more than six months of commercial development. I specialize in developing core functionality and gameplay, as well as integrating third-party libraries and APIs. I write well-documented code and have experience both working in a team and independently bringing projects to release. I am looking for projects involving the implementation of game mechanics and core systems—from prototyping to a fully integrated solution based on technical specifications.
 
 ---
 ## STACK
